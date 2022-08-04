@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Amazon_Practice_task</string>
+
+    <string name="button1">View Amazon Pay balance statement</string>
+    <string name="button2">Top-up your Amazon Pay balance</string>
+
+    <string name="button3">See what others are reordering on Buy Again</string>
+</resources>

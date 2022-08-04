@@ -1,0 +1,19 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "Task_2"
+include ':app'
+include ':app:task_using_clickfunction'
+include ':task_real_time_example'
+include ':amazon_practice_task'
